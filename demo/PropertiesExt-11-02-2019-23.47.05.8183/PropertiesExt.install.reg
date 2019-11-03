@@ -1,6 +1,0 @@
-Windows Registry Editor Version 5.00
-
-[HKEY_CLASSES_ROOT\.properties]
-@="properties_auto_file"
-"Content Type"="text/plain"
-"PerceivedType"="text"
