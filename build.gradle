@@ -1,0 +1,12 @@
+apply plugin: 'distribution'
+
+distributions {
+    main {
+        baseName = "RegModBase"
+        contents {
+            from "src"
+        }
+    }
+}
+
+distTar.enabled = false
